@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haeeul</h1>
 
-- 🔭 I’m currently working on [caredi](https://github.com/TeamCare-D/CareD-Android)
+- 🔭 I’m currently working on [caredi](https://github.com/TeamCare-D/CareD-Android) / [A.fume](https://github.com/A-fume)
 
 - 🤝 I’m looking for help with [Algorithm](https://github.com/Haeeul/Algorithm_java)
 
