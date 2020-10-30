@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [caredi](https://github.com/TeamCare-D/CareD-Android) / [A.fume](https://github.com/A-fume)
 
-- 🤝 I’m looking for help with [Algorithm](https://github.com/Haeeul/Algorithm_java)
+- 🤝 I’m looking for help with [Algorithm](https://github.com/Haeeul/Algorithm_java) / [Design Pattern](https://github.com/Haeeul/kotlinProject)
 
 - 📫 How to reach me **etoilune00@gmail.com**
 
