@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **etoilune00@gmail.com**
 
-- ⚡ Fun fact **I love dinosaurs**
+- ⚡ Fun fact **I love dinosaurs**🦖🦕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
