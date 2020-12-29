@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haeeul</h1>
 
-- 🔭 I’m currently working on [A.fume](https://github.com/A-fume)
+- 🔭 I’m currently working on [A.fume](https://github.com/A-fume) / [Housing](https://github.com/teamHousing/Housing_Android)
 
 - 🤝 I’m looking for help with [Algorithm](https://github.com/Haeeul/Algorithm_java) / [Design Pattern](https://github.com/Haeeul/kotlinProject)
 
