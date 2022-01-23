@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&width=100%&section=header&text=Hi%20👋,%20I'm%20Haeeul&fontSize=40)
 
-- 🔭 I’m currently working on [A.fume](https://github.com/A-fume)
+- 🌱 I’m currently learning [Design Pattern](https://github.com/Haeeul/kotlinProject) / [Kotlin](https://github.com/Haeeul/Study-Project-Kotlin)
 
-- 🤝 I’m looking for help with Algorithm([Java](https://github.com/Haeeul/Algorithm_java),[Python](https://github.com/Haeeul/Algorithm-Python)) / [Design Pattern](https://github.com/Haeeul/kotlinProject) / [Kotlin](https://github.com/Haeeul/Study-Project-Kotlin)
+- 🤝 I’m looking for help with Algorithm([Java](https://github.com/Haeeul/Algorithm_java),[Python](https://github.com/Haeeul/Algorithm-Python))
 
 - 📫 How to reach me **etoilune00@gmail.com**
 
