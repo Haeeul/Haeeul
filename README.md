@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://haeeul.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="해을의 개발자국" height="30" width="40" /></a>
 <a href="https://instagram.com/mh_haeeul_s2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mh_haeeul_s2" height="30" width="40" /></a>
 </p>
 </br>
