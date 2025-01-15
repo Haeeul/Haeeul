@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Haeeul" width = 45% />
 </a>
 <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haeeul" width = 45% />
+  <img src="https://streak-stats.demolab.com?user=Haeeul&theme=shadow-green&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </a>
 
 
